@@ -2,7 +2,10 @@
 
 ## Project Overview
 
-AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
+The project was done on a well-crafted dataset of a hypothetical company called Atliq Hardware. The goal of the project was to build an automated Power BI dashboard for the finance, sales, marketing, and supply chain teams at Atliq, to help them analyze the data effectively for better decision-making.
+
+AtliQ Hardwares is a consumer electronics company expanding rapidly but is not able to compete with other companies using data as most of their report still exists in Excel. My goal is to implement an advanced analytics solution using Power BI that will enable the company to get insights and make informed decisions.
+
 
 I worked on this project by following the Codebasics PowerBi Bootcamp, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
@@ -17,26 +20,27 @@ I worked on this project by following the Codebasics PowerBi Bootcamp, Link to t
 - DAX studio (for optimizing the report)
 - Project charter file
 
-## PowerBI techniques Learnt
+## PowerBI techniques used
 
-- What are all the questions should be asked before staring the project
-- Creating calculated columns
-- creating measure using DAX language
-- Data modeling
+- Stakeholder Feedback Implementation
+- Dashboard designing principles
+- Power Query (Basic and Advanced Operations) 
+- Basic and complex DAX formulas
+- Data modeling involving 10+ tables
 - Using Bookmarks to switch between two visuals
 - Page navigation with buttons
-- Using divide function to prevent zero division errors
-- creating date table using m language
+- Creating date table using m language
 - Dynamic titles based on the applied filters
 - Using KPI indicators
 - Conditional formatting the values in visuals using icons or background color
 - Data validation techniques
-- PowerBi services
-- Publishing reports to PowerBi services
+- Deploying in Power BI service
 - Setting up personal gateway to set up the auto refresh of data
-- PowerBi App creation
+- PowerBI App creation
 - Collaboration, workspace, access permissions in PowerBi services
-- And more 😅
+- Sales, Marketing, Finance & Supply Chain metrics
+- Basic queries in MySQL and loading data from MySQL database to power BI.
+-  Data Validation using Excel.
 
 
 ## Business related terms
@@ -73,14 +77,14 @@ Project kick off session, where you should get clear of for what and why this pr
 - What is the objective of building this PowerBi dashboard?
 - In what terms the success of this project will be measured?
 - What will be time dead-line of the project?
-- do the stakeholders expecting pre-view before the actual release?
+- Do the stakeholders expecting pre-view before the actual release?
 - What are all the hopes stakeholders have out of this project?
-- what are all fears the stakeholder have in terms of building this dashboard?
+- What are all fears the stakeholder have in terms of building this dashboard?
 - Who are all will be using this dashboard and for what purpose?
-- what are all expectation the stakeholders have, by the completion of this project?
+- What are all expectation the stakeholders have, by the completion of this project?
 - What can go wrong while building this project?
-- what are all the resources/ data needed to build this dashboard?
-- is there any inputs from stakeholders in terms of design and views of the dashboard?
+- What are all the resources/ data needed to build this dashboard?
+- Is there any inputs from stakeholders in terms of design and views of the dashboard?
 
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
