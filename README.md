@@ -1,5 +1,7 @@
 # Business Insights 360
 
+Live Dashboard [Link](https://www.novypro.com/project/business-insights-360-power-bi-14)
+
 ## Project Overview
 
 The project was done on a well-crafted dataset of a hypothetical company called Atliq Hardware. The goal of the project was to build an automated Power BI dashboard for the finance, sales, marketing, and supply chain teams at Atliq, to help them analyze the data effectively for better decision-making.
